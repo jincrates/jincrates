@@ -1,9 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjincrates%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <p>
-  <a href="http://jincrates.soace" target="_blank"><img src="https://img.shields.io/badge/Blog-F68212?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="
-https://www.notion.so/94jingyu/Jincrates-4330c132bfd740ce9fe6408d0be8f259" target="_blank"><img src="https://img.shields.io/badge/Jincrates-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="http://jincrates.space" target="_blank"><img src="https://img.shields.io/badge/Blog-F68212?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://www.notion.so/94jingyu/Jincrates-4330c132bfd740ce9fe6408d0be8f259"><img src="https://img.shields.io/badge/Jincrates-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <p> 
   
 안녕하세요 👋
