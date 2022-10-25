@@ -9,8 +9,6 @@
 
 철학있는 개발자, 진크라테스입니다 🤔 
 
-<br/>
-
 [Read Me 👀](https://jincrates.github.io/)
 
 
