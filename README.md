@@ -9,6 +9,8 @@
 안녕하세요 👋
 
 철학있는 개발자, 진크라테스입니다 🤔 
+  
+현재 [펫프렌즈](https://m.pet-friends.co.kr/) 주문결제팀 백엔드 개발자로 일하고 있습니다.
 
 [Read Me 👀](https://jincrates.github.io/)
 
