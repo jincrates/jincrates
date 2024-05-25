@@ -1,7 +1,8 @@
 <p>                      
-  <a href="http://jincrates.space" target="_blank"><img src="https://img.shields.io/badge/Jinspace-F68212?style=flat-square&logo=GitBook&logoColor=white"/></a>
-  <a href="https://jincrates.tistory.com/"><img src="https://img.shields.io/badge/Devlog-7F52FF?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>
-  <a href="https://velog.io/@jincrates"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="http://jincrates.me" target="_blank"><img src="https://img.shields.io/badge/Jinspace-F68212?style=flat-square&logo=buymeacoffee&logoColor=white"/></a>
+  <a href="https://jincrates.vercel.app/"><img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=GitBook&logoColor=white"/></a>
+<!--   <a href="https://jincrates.tistory.com/"><img src="https://img.shields.io/badge/Devlog-7F52FF?style=flat-square&logo=RabbitMQ&logoColor=white"/></a> -->
+<!--   <a href="https://velog.io/@jincrates"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
 <!--   <a href="https://94jingyu.notion.site/Jincrates-4330c132bfd740ce9fe6408d0be8f259"><img src="https://img.shields.io/badge/It's Me-000000?style=flat-square&logo=Notion&logoColor=white"/></a> -->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjincrates%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <p> 
